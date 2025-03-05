@@ -7,7 +7,7 @@ I'm a passionate software developer with a strong interest in full stack web app
 - 💻 I have 4 years of experience in software development.
 - 🎓 I hold a bachelors in software engineering.
 - 💡 I'm constantly learning and exploring new technologies to expand my skill set.
-- ✨ I'm enthusiastic about Flutter, React Native, Node, JavaScript, TypeScrpt.
+- ✨ I'm enthusiastic about React, Next, Node, JavaScript, TypeScrpt.
 
 ## Skills
 
@@ -33,7 +33,6 @@ You can reach out to me via email at azmatrasool6@gmail.com.
 Let's connect and collaborate on exciting projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmat-rasool-71576a213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmadyousafk)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white)](https://github.com/AzmatRasool)
 
 <!-- Attractive GIFs -->
